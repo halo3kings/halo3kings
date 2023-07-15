@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @halo3kings
-- 👀 I’m interested in ... Java, software design and a few other things 
-- 🌱 I’m currently learning ... java and the swing library.
-- 💞️ I’m looking to collaborate on ... small java projects that are intermediate.
-- 📫 How to reach me ... you can always message me here on git hub or through a dm on my instagram austin.J.Tyler
+Im the hillbilly redneck, duct tape and engine together kinda self taught programmer. 
 
 <!---
 halo3kings/halo3kings is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
