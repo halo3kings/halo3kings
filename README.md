@@ -1,4 +1,3 @@
-Im the hillbilly redneck, duct tape an engine together kinda self taught programmer. 
 
 <!---
 halo3kings/halo3kings is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
